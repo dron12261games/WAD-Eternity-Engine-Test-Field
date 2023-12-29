@@ -34,7 +34,7 @@ maps
 			resource2
 			{
 				type = 2;
-				location = "E:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\DRON12261\\EELearn\\EELearn.pke";
+				location = "E:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\WAD-Eternity-Engine-Test-Field\\EELearn\\EELearn.pke";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -58,9 +58,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 4455.075f;
-		viewpositiony = 514.5515f;
-		viewscale = 4.175361f;
+		viewpositionx = 873.9943f;
+		viewpositiony = 812.8973f;
+		viewscale = 8.486964f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -71,7 +71,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 8;
+			gridsize = 4;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -110,12 +110,7 @@ maps
 			
 			sector
 			{
-				xpanningfloor = 1;
 				ypanningfloor = 1;
-				xpanningceiling = 1;
-				ypanningceiling = 1;
-				rotationceiling = 1;
-				rotationfloor = 1;
 			}
 		}
 		
