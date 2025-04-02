@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				location = "S:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -24,7 +24,7 @@ maps
 			resource1
 			{
 				type = 0;
-				location = "E:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\RES-ColossalDTex\\ColossalDTexOLD.wad";
+				location = "S:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\RES-ColossalDTex\\ColossalDTexOLD.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -34,7 +34,7 @@ maps
 			resource2
 			{
 				type = 2;
-				location = "E:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\WAD-Eternity-Engine-Test-Field\\EELearn\\EELearn.pke";
+				location = "S:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\WAD-Eternity-Engine-Test-Field\\EELearn\\EELearn.pke";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -58,9 +58,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 873.9943f;
-		viewpositiony = 812.8973f;
-		viewscale = 8.486964f;
+		viewpositionx = 2679.669f;
+		viewpositiony = 1305.043f;
+		viewscale = 0.6156279f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -71,7 +71,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 4;
+			gridsize = 64;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -133,7 +133,7 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 799;
+				caretposition = 706;
 				activetab = true;
 			}
 		}
